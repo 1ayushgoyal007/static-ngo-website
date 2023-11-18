@@ -107,8 +107,8 @@ a.btn-yellow:hover,
   padding-bottom: 4em;
 }
 .padding-large {
-  padding-top: 7em;
-  padding-bottom: 7em;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 .padding-xlarge {
   padding-top: 9.5em;

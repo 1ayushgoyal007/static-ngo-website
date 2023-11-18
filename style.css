@@ -59,7 +59,8 @@ a:hover {
   -webkit-transition: 0.4s ease;
   transition: 0.4s ease;
   width: 400px;
-  height: 300px;
+  height: 350px;
+  object-fit: cover;
 }
 .zoom-effect:hover .zoom-in img {
   -webkit-transform: scale(1.08);
